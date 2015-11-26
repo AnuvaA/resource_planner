@@ -1,0 +1,11 @@
+What is *planning problem ?*
+
+A planning problem is to *Optimise goals with limited resources under constraints*
+
+*Optimise goals*: Maximise profit, Minimise ecological footprint, Maximize happiness of employees/customers
+
+*with limited resources* :Employees Assest( machines ,buildings,Vehicles 
+Time,Budget)
+
+*under constraints* : employees vs Working hoursemployee vs skills/affinity
+assest vs/Logistic conflicts
