@@ -1,5 +1,8 @@
-A planning problem has at least 2 levels of constraints: +
-A *(negative) hard constraint* must not be broken. For example: 1 teacher can not teach 2 different lessons at the same time. +
-A *(negative) soft constraint* should not be broken if it can be avoided. For example: Teacher A does not like to teach on Friday afternoon +
+A bit of background +
+	•	Business Resource planner was known as Optaplanner +
+	•	OptaPlanner had graduated from the Drools project to become a top-level JBoss Community project +
+	•	OptaPlanner (the planning engine) joined its siblings Drools (the rule engine) and jBPM (the workflow engine) in the KIE group +
+	•	This component is also available in the Red Hat JBoss BRMS 6.1 product which is a sub-set of the JBoss BPM Suite product.
 
-These constraints define the score calculation (AKA fitness function) of a planning problem. Each solution of a planning problem can be graded with a score. With Planner, score constraints are written in an Object Orientated language, *such as Java code or Drools rules.* Such code is easy, flexible and scalable.
+
+

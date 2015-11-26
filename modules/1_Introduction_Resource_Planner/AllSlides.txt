@@ -1,0 +1,9 @@
+
+include::M01S01_what_is_planner.adoc[]
+include::M01S02_what_is_planning_problem.adoc[]
+include::M01S03_usecases.adoc []
+include::M01S04_NP_problem.adoc []
+include::M01S05_categories_of_solutions.adoc []
+include::M01S06_planner_features.adoc[]
+include::m01p07_M01S07_level_of constraints.adoc[]
+include::M01S08-background-planner.adoc[]
