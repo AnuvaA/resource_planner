@@ -1,0 +1,39 @@
+[source,text]
+----
+
+----         
+
+= 1. Business Resource Planner
+
+== Introduction to Business Resource Planner
+
+* What is a planning problem
+* Planning use cases
+* NP-complete and NP-Hard
+* Categories of Solution
+* How Planner helps
+* Level of Constraints
+* Optaplanner background
+
+
+.References
+* http://www.eaipatterns.com/Messaging.html
+
+== Getting started with Business Resource Planner (Planner)
+
+1. How to 
+2. Item
+
+.References
+* http://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html
+
+== Broker Architecture
+
+== Point to Point
+
+== Loadbalancing
+
+
+= 2. Core Features & Extensions
+
+== Client and Server communication
