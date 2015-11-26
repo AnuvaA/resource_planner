@@ -1,0 +1,8 @@
+A planning problem has a number ofsolutions. There are several categories of solutions: +
+ A *possible solution* is any solution, whether or not it breaks any number of constraints +
+A *feasible solution* is a solution that does not break any (negative) hard constraints +
+An *optimal solution* is a solution with the highest score. Planning problems tend to have 1 or a few optimal solutions +
+ The *best solution* found is the solution with the highest score found by an implementation in a given amount of time
+
+Counterintuitively, the number of possible solutions is huge Because there is no silver bullet to find the optimal solution, any implementation is forced to evaluate at least a subset of all those possible solutions
+Which algorithms can we use to optimize these use cases? How do those algorithms work? How do we scale out? And how much does this reduce our company’s expenses (and ecological footprint)?

@@ -1,0 +1,9 @@
+All the use cases  are probably *NP-complete* or *NP-hard.*
+ In layman's terms,*NP-complete* means:
+ It's easy to verify a given solution to a problem in reasonable time.
+There is no silver bullet to find the optimal solution of a problem in reasonable time (*).
+*NP-Hard*  means :
+ It’s a problem such that, given the magical ability to instantly solve it, you can use this ability to solve any NP problem quickly.
+
+
+The only difference between NP-Hard and NP-Complete is that NP-Complete problems must also be NP problems, but NP-Hard problems do not have this restriction.
