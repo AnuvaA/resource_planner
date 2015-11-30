@@ -1,9 +1,28 @@
-All the use cases  are probably *NP-complete* or *NP-hard.*
- In layman's terms,*NP-complete* means:
+All the use cases  are probably *NP-complete* or *NP-hard.* +
+ In layman's terms,
+ 
+*NP-complete* means:
  It's easy to verify a given solution to a problem in reasonable time.
-There is no silver bullet to find the optimal solution of a problem in reasonable time (*).
-*NP-Hard*  means :
+There is no silver bullet to find the optimal solution of a problem in reasonable time (*). +
+ NP-hard*  means :
  It’s a problem such that, given the magical ability to instantly solve it, you can use this ability to solve any NP problem quickly.
 
 
 The only difference between NP-Hard and NP-Complete is that NP-Complete problems must also be NP problems, but NP-Hard problems do not have this restriction.
+
+image:images/[NPproblem.png]
+ifdef::showscript[]
+[.notes]
+****
+
+A problem is said to be in class P if there is a polynomial-time algorithm to solve the problem. Additionally, you can also verify* a solution in polynomial-time for all problems in class P. 
+
+A problem is said to be in class NP if you can verify* a solution in polynomial-time but you don't know yet if you can solve it with a polynomial time algorithm.
+irst, let's understand what NP is. Suppose you stumble upon a Sudoku puzzle that you just can't seem to solve. Then, a friend walks up to you and boasts, "Haha! I know the answer to the problem!" Amazed, you tell your friend, "Prove it!" Your friend fills out the empty spaces in your Sudoku puzzle, and behold, upon a quick glance, you've verified that the answer is correct. "How did you do that?" you asked your friend. He responds, "It doesn't matter ;)"
+
+Sudoku is an NP problem because it you can "quickly" verify a solution to a Sudoku problem. (By "quickly", I really mean "in polynomial time.") It doesn't matter if you can actually figure out the solution quickly or not. All that matters for a problem to be in NP is if a solution can be verified quickly.
+
+an NP-Hard problem is a problem such that, given the magical ability to instantly solve it, you can use this ability to solve any NP problem quickly.
+
+****
+endif::showscript[]

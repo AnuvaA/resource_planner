@@ -3,3 +3,12 @@ What is *Business Resource Planner ?*
 Business Resource Planner  is  a newly added component of the  RedHat JBoss BPM Suite 6.1 .
 Business Resource Planner is *a lightweight, embeddable planning engine.* It enables normal Java programmers to solve optimization problems efficiently.
 Business Resource Planner can tackle a wide range of planning problems, from delivery routing to shift scheduling and even managing compute resources in the cloud
+
+
+ifdef::showscript[]
+[.notes]
+***
+Business Resource Planner was earlier known as optaplanner and was available in tech preview in JBoss BPM Suite 6.0This component is also available in the Red Hat JBoss BRMS 6.1 product which is a sub-set of the JBoss BPM Suite product. Red Hat JBoss BPM Suite 6.1 is a minor release over the previous version of 6.0.3
+****
+endif::showscript[]
+

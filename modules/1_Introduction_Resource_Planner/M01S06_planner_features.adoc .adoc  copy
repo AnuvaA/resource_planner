@@ -1,4 +1,0 @@
-Planner does find a good solution in reasonable time for such planning problems. +
-It +
-* supports several optimization algorithms to efficiently wade through that incredibly large number of possible solutions. +
-* it is easy to switch the optimization algorithm, by changing the solver configuration in a few lines of XML or code

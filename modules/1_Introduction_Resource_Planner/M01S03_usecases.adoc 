@@ -8,4 +8,19 @@ Planner helps schedule lessons, courses, exams, and conference presentations. 
 Planner tracks car assembly lines, machine queue planning, and workforce task planning.
 . Cutting Stock: 
 Planner minimizes waste by reducing the consumption of resources such as paper and steel.
- 
+
+
+
+
+
+
+ifdef::showscript[]
+[.notes]
+****
+
+Every organization faces planning problems: provide products or services with a limited set of constrained resources (employees, assets, time and money). OptaPlanner optimizes such planning to do more business with less resources. 
+****
+endif::showscript[]
+
+
+

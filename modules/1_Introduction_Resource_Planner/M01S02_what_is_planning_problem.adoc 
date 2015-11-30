@@ -1,0 +1,19 @@
+What is *planning problem ?*
+
+A planning problem is to *Optimise goals with limited resources under constraints*
+
+*Optimise goals*: Maximise profit, Minimise ecological footprint, Maximize happiness of employees/customers
+
+*with limited resources* :Employees Assest( machines ,buildings,Vehicles 
+Time,Budget)
+
+*under constraints* : employees vs Workin hours employee vs skills/affinity
+assest vs/Logistic conflicts
+
+ifdef::showscript[]
+[.notes]
+***
+Planner is a constraint satisfaction solver. It optimizes business resource planning. Every organization faces scheduling puzzles: assign a limited set of constrained resources (employees, assets, time and money) to provide products or services to customers. Planner optimizes such planning problems to do more business with less resources
+
+****
+endif::showscript[]
